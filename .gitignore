@@ -17,4 +17,9 @@
 !/win.h
 !/x.c
 
+!/st-anysize-0.8.1.diff
+!/st-clipboard-0.8.3.diff
 !/st-dracula-0.8.2.diff
+!/st-hidecursor-0.8.3.diff
+!/st-scrollback-20200419-72e3f6c.diff
+!/st-universcroll-0.8.4.diff
