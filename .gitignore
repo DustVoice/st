@@ -10,6 +10,7 @@
 !/LICENSE
 !/Makefile
 !/README
+!/st.1
 !/st.c
 !/st.h
 !/st.info
