@@ -18,6 +18,7 @@
 !/x.c
 
 !/st-anysize-0.8.1.diff
+!/st-blinking_cursor-20200531-a2a7044.diff
 !/st-clipboard-0.8.3.diff
 !/st-dracula-0.8.2.diff
 !/st-hidecursor-0.8.3.diff

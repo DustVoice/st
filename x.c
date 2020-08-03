@@ -1569,7 +1569,6 @@ xdrawcursor(int cx, int cy, Glyph g, int ox, int oy, Glyph og)
 					win.hborderpx + cx * win.cw,
 					win.vborderpx + cy * win.ch,
 					cursorthickness, win.ch);
-			break;
 		}
 	} else {
 		XftDrawRect(xw.draw, &drawcol,
