@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Hack:size=10:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -119,6 +119,8 @@ static const char *colorname[] = {
   /* special colors */
   [256] = "#282a36", /* background */
   [257] = "#f8f8f2", /* foreground */
+  [258] = "#f8f8f2", /* foreground */
+  [259] = "#282a36", /* background */
 };
 
 /*
@@ -127,8 +129,8 @@ static const char *colorname[] = {
  */
 unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
-static unsigned int defaultcs = 257;
-static unsigned int defaultrcs = 257;
+static unsigned int defaultcs = 258;
+static unsigned int defaultrcs = 259;
 
 /*
  * Colors used, when the specific fg == defaultfg. So in reverse mode this
